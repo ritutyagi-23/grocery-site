@@ -1,0 +1,11 @@
+# Ignore uploads (heavy files)
+uploads/
+
+# Cache
+cache/
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
