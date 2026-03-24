@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xml' href='//sansvika.com/?wds_sitemap_styling=1&#038;template=sitemapIndexBody'?><!-- SMARTCRAWL SITEMAP -->
+<sitemapindex
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+			<sitemap><loc>https://sansvika.com/post-sitemap1.xml</loc></sitemap>			<sitemap><loc>https://sansvika.com/page-sitemap1.xml</loc></sitemap>			<sitemap><loc>https://sansvika.com/elementor_library-sitemap1.xml</loc></sitemap>			<sitemap><loc>https://sansvika.com/product-sitemap1.xml</loc></sitemap>			<sitemap><loc>https://sansvika.com/shopengine-template-sitemap1.xml</loc></sitemap>			<sitemap><loc>https://sansvika.com/metform-form-sitemap1.xml</loc></sitemap>			<sitemap><loc>https://sansvika.com/category-sitemap1.xml</loc></sitemap>			<sitemap><loc>https://sansvika.com/product_cat-sitemap1.xml</loc></sitemap>	</sitemapindex>
